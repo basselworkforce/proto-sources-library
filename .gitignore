@@ -1,0 +1,17 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+/bin/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+
+### VSCode
+.classpath
+.project
+.settings/
+.vscode/

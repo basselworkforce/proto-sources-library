@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package com.acme.grpc.orders.v1;
+
+message OrderStatus {
+  string id = 1;
+}
